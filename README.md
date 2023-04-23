@@ -1,14 +1,14 @@
-<DOCTYPE XML>
-<xml>
+<DOCTYPE html>
+<html>
 <head>
 <meta charset="utf-8">
-<meta favicon="Dj JՐ">
-<title> DJ Jesse Jay :: since over 25 years the progressive music attack * </title>
+<meta favicon.ico="shortcut=./.favicon.icon">
+<title><h3>:: DJ Jesse Jay :: since 1997 the progressive music attack:: </h3> </title>
 <meta name="description" content="Alles über den Zürcher DJ JesseJay, seine Laufbahn und seine
 Spieldaten">
 <meta name="keywords" content="DJ, Jesse Jay, JesseJay, Michael, Fellner, Michael Fellner, Techno,
 House, Progressive, Prog-House, Progressive-House, Tech-House, progressive, sexy Musik">
-<meta CreateContentID {create next free ID}>
+
 
 </meta>
 </head>
@@ -286,7 +286,7 @@ UNLOCK TABLES;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 <footer>
 <body>
-<h1>(c)(c) 4.0 (2003-2023) by DJ Jesse Jay & @®†  @ Zürich
+<h1>(c)(c) 4.0 (2003-2023) by Marcin Kolonko & DJ Jesse Jay & @®† Zürich
 
 This channel presents works for advertising
 The tracks in the videos is not free to use. If you'd like to use the music in this videos, please contact the Artist or Label.
